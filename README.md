@@ -1,7 +1,7 @@
-# PD_GradeHoraria
+# Greed_ExerciciosJuizOn
 
 **Número da Lista**: 3<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Algoritmos Ambiciosos<br>
 
 ## Alunos
 |Matrícula | Aluno |
